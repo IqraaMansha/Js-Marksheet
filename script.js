@@ -10,6 +10,7 @@ var Percentage = Total / total * 140;
 
 
 
+
 var name2 = "Sara";
 var math2 = 35;
 var eng2 = 45;
